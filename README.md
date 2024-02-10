@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
-<img align="right" alt="coding" width="200" src="https://cdn.pixabay.com/animation/2023/01/03/12/08/12-08-43-309_512.gif">
+<img align="right" alt="coding" width="300" src="https://cdn.pixabay.com/animation/2023/01/03/12/08/12-08-43-309_512.gif">
 <h3 align="center">A passionate Backend developer from India</h3>
 
 
